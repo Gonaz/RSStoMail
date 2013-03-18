@@ -1,0 +1,16 @@
+<settings>
+	<mail>
+		<server>
+			<url> smtp.gmail.com </url>
+			<port> 465 </port>
+		</server>
+		<from> john.doe@gmail.com </from>
+		<to> john.doe@gmail.com </to>
+		<auth> AGpvaG4uZG9lQGdtYWlsLmNvbQBNeVZlcnlTZWNyZXRQYXNzd29yZA== </auth>
+	</mail>
+	
+	<rss>
+		<updateInterval> 3600000 </updateInterval>
+		<url> https://cygnus.cc.kuleuven.be/webapps/???? </url>
+	</rss>
+</settings>
